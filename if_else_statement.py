@@ -53,5 +53,17 @@ elif num == 3:
     print("Three")
 else:
     print("others")
+
+
+#If也可以用在文字的比對 
+x = input("what do your today:")
+if x == "sleep":
+     print("don't be so lazy")
+elif x == "eat":
+     print("spam & egg")
+else:
+    print("you can do it,but...")
+
+
             
             
